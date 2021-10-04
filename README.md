@@ -5,7 +5,7 @@
 
 - O projeto que tem como proposta principal a de simular um caixa de mercado, que tem como funcionalidades cadastramento de funcionários e produtos, 
 exclusão ou alteração de dados, visualização de nota fiscal, bem como os cálculos da venda, e o pagamento ou cancelamento da compra, dentre outras;
-- O projeto possui 5 telas distintas, portanto, as funcionalidades indicadas se aplicarão às telas cabíveis, assim, não estando presentes em todas simultaneamente;
+- Foram desenvolvidas 5 telas distintas, portanto, as funcionalidades indicadas se aplicarão às telas cabíveis, assim, não estando presentes em todas simultaneamente;
 - Para a interface gráfica foi utilizado o framework Swing;
 - Os bancos de dados são arquivos .txt.
 
