@@ -9,6 +9,9 @@ exclusão ou alteração de dados, visualização de nota fiscal, bem como os c�
 - Para a interface gráfica foi utilizado o framework Swing;
 - Os bancos de dados são arquivos .txt.
 
+Projeto do módulo 02 do curso de formação fullstack da Step Computer Academy. <br>
+Repositório com exercícios deste módulo: https://github.com/ThaliaLevy/step-computer-academy-modulo02/tree/master-branch
+
 <br>
 <h3><b>INICIANDO O PROJETO: TELA DE LOGIN</b></h3>
 <br>
