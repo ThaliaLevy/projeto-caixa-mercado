@@ -1,4 +1,4 @@
-# projeto-venda-passagens
+# projeto-caixa-mercado
 
 <h3><b>BREVE DESCRIÇÃO DO PROJETO</b></h3>
 <br>
